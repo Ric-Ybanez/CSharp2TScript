@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp2TScript", "CSharp2TScript\CSharp2TScript.csproj", "{DF736485-5CFC-4B5E-8C0A-03610F7140AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp2TScript.Service", "CSharp2TScript.Service\CSharp2TScript.Service.csproj", "{FB000CC1-DD73-4740-B81C-C42E73D4411D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF736485-5CFC-4B5E-8C0A-03610F7140AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF736485-5CFC-4B5E-8C0A-03610F7140AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF736485-5CFC-4B5E-8C0A-03610F7140AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF736485-5CFC-4B5E-8C0A-03610F7140AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB000CC1-DD73-4740-B81C-C42E73D4411D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB000CC1-DD73-4740-B81C-C42E73D4411D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB000CC1-DD73-4740-B81C-C42E73D4411D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB000CC1-DD73-4740-B81C-C42E73D4411D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9081CBAB-FAE0-4A7A-A36C-6BC75DCD0C28}
+	EndGlobalSection
+EndGlobal
